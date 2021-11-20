@@ -30,3 +30,5 @@ plt.plot(timess,y)
 print(timess)
 print(y)
 plt.show()
+
+# do the bonus simulation later
